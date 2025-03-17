@@ -16,4 +16,5 @@ A simple and intuitive to-do list app to help you manage tasks, set priorities, 
 </ol>
 <br>
 <br>
-![todo](https://github.com/user-attachments/assets/b7b2ed17-c5ee-4264-9688-9209221bcbcc)
+
+https://github.com/user-attachments/assets/162e9e07-a037-402f-8f0a-da71b115c240
